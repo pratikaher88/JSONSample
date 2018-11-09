@@ -1,4 +1,4 @@
-[
+{"items":[
   {
     "barrier_report.what_went_wrong": "test",
     "webpage_reported": "http://178.79.181.86/tingtun/",
@@ -399,4 +399,4 @@
     "webpage_reported": "http://www.epbt.eu/tingtun/",
     "Counts": 1
   }
-]
+]}
